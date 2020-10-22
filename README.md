@@ -25,3 +25,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/NEC0tvT9wH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Update
+Post images are now showing. Did the whole assignment from scratch again.
