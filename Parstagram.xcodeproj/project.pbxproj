@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		10F1A07F31E78BF120A31784 /* Pods_Parstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DC5A77FE636EBC314D7B0BC3 /* Pods_Parstagram.framework */; };
+		153E45822542B8D900DC6535 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 153E45812542B8D900DC6535 /* CommentCell.swift */; };
 		15AE8FE725413ADF0042722B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AE8FE625413ADF0042722B /* AppDelegate.swift */; };
 		15AE8FE925413AE00042722B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15AE8FE825413AE00042722B /* SceneDelegate.swift */; };
 		15AE8FEE25413AE00042722B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15AE8FEC25413AE00042722B /* Main.storyboard */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		153E45812542B8D900DC6535 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		15AE8FE325413ADF0042722B /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15AE8FE625413ADF0042722B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		15AE8FE825413AE00042722B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				15DEBDD225413F3A00F599B1 /* FeedViewController.swift */,
 				15DEBDD725414BDC00F599B1 /* CameraViewController.swift */,
 				15DEBDE725415E1400F599B1 /* PostCell.swift */,
+				153E45812542B8D900DC6535 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				15DEBDD325413F3A00F599B1 /* FeedViewController.swift in Sources */,
 				15AE8FE925413AE00042722B /* SceneDelegate.swift in Sources */,
 				15DEBDE825415E1400F599B1 /* PostCell.swift in Sources */,
+				153E45822542B8D900DC6535 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
